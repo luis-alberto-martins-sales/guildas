@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ccb96282-67a7-4b6f-828d-c12b50259134" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/factoryMethod/OO/BombedMazeGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/factoryMethod/OO/BombedWall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/factoryMethod/OO/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/factoryMethod/OO/DoorNeedingSpell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/factoryMethod/OO/EnchantedMazeGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/factoryMethod/OO/EnchantedRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/factoryMethod/OO/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/factoryMethod/OO/Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/factoryMethod/OO/MazeGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/factoryMethod/OO/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/factoryMethod/OO/RoomWithABomb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/factoryMethod/OO/Spell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/factoryMethod/OO/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/factoryMethod/funcional/BombedWall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/factoryMethod/funcional/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/factoryMethod/funcional/DoorNeedingSpell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/factoryMethod/funcional/EnchantedRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/factoryMethod/funcional/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/factoryMethod/funcional/Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/factoryMethod/funcional/MazeGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/factoryMethod/funcional/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/factoryMethod/funcional/RoomWithABomb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/factoryMethod/funcional/Spell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/factoryMethod/funcional/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/strategy/OO/ArrayCompositor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/strategy/OO/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/strategy/OO/Composition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/strategy/OO/Compositor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/strategy/OO/Coord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/strategy/OO/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/strategy/OO/SimpleCompositor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/strategy/OO/TeXCompositor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/strategy/funcional/ArrayCompositor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/strategy/funcional/Atributos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/strategy/funcional/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/strategy/funcional/Coord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/strategy/funcional/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/strategy/funcional/Repair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/strategy/funcional/SimpleCompositor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/cloud74/strategy/funcional/TeXCompositor.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DWfQMW1IQBX8yUp6k47vfOzNhX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/F6360787/guildas/src/main/java/br/com/bb/cloud74/factoryMethod/funcional"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.bb.cloud74.factoryMethod.OO" />
+      <recent name="br.com.bb.cloud74.funcional" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\F6360787\guildas\src\main\java\br\com\bb\cloud74\factoryMethod\funcional" />
+      <recent name="C:\Users\F6360787\guildas\src\main\java\br\com\bb\cloud74\funcional" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.bb.cloud74.factoryMethod.funcional" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.br.com.bb.cloud74.factoryMethod.funcional.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bb.cloud74.funcional.Main" />
+      <module name="guildas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.bb.cloud74.funcional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="br.com.bb.cloud74.factoryMethod.funcional.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bb.cloud74.factoryMethod.funcional.Main" />
+      <module name="guildas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.bb.cloud74.factoryMethod.funcional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.br.com.bb.cloud74.factoryMethod.funcional.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccb96282-67a7-4b6f-828d-c12b50259134" name="Changes" comment="" />
+      <created>1660819746663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660819746663</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
